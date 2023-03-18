@@ -1,0 +1,13 @@
+Factura pentru Dorin : 
+bmw - 3 buc - 90000;
+dacia - 10 buc - 100000;
+Total: 190000
+Factura pentru dan : 
+bmw - 1 buc - 30000;
+Total: 30000
+Factura pentru Cristi : 
+test - 2 buc - 64000;
+Total: 64000
+Factura pentru test : 
+test - 70 buc - 2240000;
+Total: 2240000
